@@ -1,0 +1,5 @@
+comment = 'repro: the required extension'
+default_version = '@CARGO_VERSION@'
+module_pathname = '$libdir/dep_ext'
+relocatable = false
+superuser = true

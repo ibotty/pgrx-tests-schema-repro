@@ -1,0 +1,6 @@
+comment = 'repro: the dependent extension'
+default_version = '@CARGO_VERSION@'
+module_pathname = '$libdir/top_ext'
+relocatable = false
+superuser = true
+requires = 'dep_ext'
